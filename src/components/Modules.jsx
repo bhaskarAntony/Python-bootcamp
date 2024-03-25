@@ -13,7 +13,7 @@ const moduledata = [
         tag:"Day2",
         heading:" Use of Turtle  ",
         description:"The turtle module is a pre-installed Python library that allows users to create pictures and shapes with a provided, virtual canvas  and Functions eliminate the need to write the same block of code repeatedly. You define it once and can call it whenever needed, making your code cleaner and more efficient",
-        topicCovered:[" Use of Tkinter ", "Functions and its Use"]
+        topicCovered:[" Use of Turtle ", "Functions and its Use"]
     },
 ]
 function Modules() {
