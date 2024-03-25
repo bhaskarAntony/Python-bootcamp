@@ -336,7 +336,7 @@ function Registration() {
 <div className="registration-form-container text-center rounded-3">
                 <div className="card register-form rounded-3">
                     <div className="card-header text-start">
-                    <h1 className="p-large-xl text-white">Enroll Our <br />Data Analytics  Bootcamp</h1>
+                    <h1 className="p-large-xl text-white">Enroll Our <br />Python Game Development  Bootcamp</h1>
             <div className="d-flex align-items-end">
             <h1 className="heading-text text-main mx-2">Free</h1>
             <h1 className="heading-subtitle text-white"><del className='text-danger'>&#8377;1000</del></h1>
