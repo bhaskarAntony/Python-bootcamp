@@ -37,7 +37,7 @@ const highlights = [
 function Highlights() {
   return (
     <section className='highlights text-center mt-5' id='highlight'>
-        <h1 className="heading text-white mb-5">Python   <br /> Bootcamp <span className='text-main'>Highlights</span></h1>
+        <h1 className="heading text-white mb-5">Python   <br /> Game Development Bootcamp <span className='text-main'>Highlights</span></h1>
         <div className="container mt-3">
             <div className="row">
             {
