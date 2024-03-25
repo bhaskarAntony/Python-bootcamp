@@ -21,7 +21,7 @@ function Certificate() {
                 </p>
                 <h1 className='p-large-xl text-900 text-main mb-3'>Python  Bootcamp:</h1>
                 <p className="p-large text-white">
-                The Bootcamp was conducted on  7<sup>th</sup>-8<sup>th</sup> Feb 2024, and its duration spanned  Day1 2Hours and Day2 2Hours total 4 Hours Bootcamp, ensuring participants had ample time to acquire the skills and knowledge necessary to excel in the field of Python .
+                The Bootcamp was conducted on  27<sup>th</sup>-28<sup>th</sup> March 2024, and its duration spanned  Day1 2Hours and Day2 2Hours total 4 Hours Bootcamp, ensuring participants had ample time to acquire the skills and knowledge necessary to excel in the field of Python .
                 </p>
             </div>
         </div>
