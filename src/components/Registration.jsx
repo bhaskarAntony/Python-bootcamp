@@ -212,16 +212,19 @@ function Registration() {
           //   console.error('Influencers data is not available. Please handle this case.');
           //   return;
           // }
+          setLoading(true)
           try {
-              axios.post('http://localhost:3200/api/python/register', reg)
+              axios.post('https://stormy-flannel-nightgown-ox.cyclic.app/api/python/register', reg)
               .then(response => {
                 // Handle the response data here
                 toast.success("Thank you for registering to Python  Bootcamp")
                 setShowModal(true)
+                setLoading(false)
                 console.log(response);
               })
               .catch(error => {
                 // Handle any errors here
+                setLoading(false)
                 toast.error(error)
                 console.error(error);
               });
